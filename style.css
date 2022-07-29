@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  display: flex;
+  background-color: lightgreen;
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px 0px rgba(18, 79, 9, 1);
+}
+
+.menu-img {
+  padding: 17px 25px;
+}
+
+.menu-img:hover {
+  background-color: blue;
+}
